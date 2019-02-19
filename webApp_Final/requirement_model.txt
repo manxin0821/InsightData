@@ -1,0 +1,6 @@
+flask
+keras
+tensorflow
+gensim
+cophi_toolbox
+hatesonar

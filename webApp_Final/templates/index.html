@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>deToxic</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="../static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="../static/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../static/css/stylish-portfolio.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <a class="menu-toggle rounded" href="#">
+      <i class="fas fa-bars"></i>
+    </a>
+    <nav id="sidebar-wrapper">
+      <ul class="sidebar-nav">
+        <li class="sidebar-brand">
+          <a class="js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#page-top">Home</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#Examples">Examples</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#Flask">Demo</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#about_me">About Me</a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead d-flex">
+      <div class="container text-center my-auto">
+        <h1 class="mb-1">deToxic</h1>
+        <h3 class="mb-5">
+          <em>A language scrubber</em>
+        </h3>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#Find_more">Find Out More</a>
+      </div>
+      <div class="overlay"></div>
+    </header>
+
+    <!-- Find More -->
+    <section class="content-section bg-primary text-white" id="Find_more">
+      <div class="container text-center">
+        <h2 class="mb-4">About deToxic</h2>
+        <p class="mb-4"> Profanities make online surfing less enjoyable. For those users who plan to post an offensive message, deToxic will offer a polite version of the message that can be posted. This could encourage many users to change their mind and avoid the profanity.</p>
+        <a href="#Examples" class="btn btn-xl btn-light mr-4">Examples</a>
+        <a href="#Flask" class="btn btn-xl btn-dark">Demo</a>
+      </div>
+    </section>
+
+    <!-- Examples -->
+    <section class="content-section bg-primary text-white" id="Examples">
+      <div class="container text-center">
+        <h2 class="mb-4">Input:</h2> <p>   The restaurant is damn good.</p>
+        <h2 class="mb-4">Output: </h2>
+          <p>Absolutely will go back.</p>
+           <p>Job well done in my book.</p>
+           <p>However this place far exceeded my expectations.</p>
+
+      </div>
+    </section>
+    <!-- Flask -->
+    <section class="content-section bg-light" id="Flask">
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <h2>Try your sentence here!</h2>
+            <!--<p class="lead mb-5">-->
+                <form method="POST" style="
+					width: 900px;
+					height: 72px;
+				">
+                    <input id="textarea" list="random_input" name="textbox" rows=1 placeholder="Enter text here" style="'
+                        width:900px;;
+                        height:72px;;;
+                        width:906px;;
+                    ">
+                    </input>
+                    <datalist id="random_input">
+                          <option value="The restaurant is damn good">
+                          <option value="The service sucked ass">
+                          <option value="The staff is damn horrible">
+
+                    </datalist>
+                </form>
+            <!--</p>-->
+           <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services" style="
+                padding-bottom: 0px;
+                padding-left: 0px;
+                padding-top: 0px;
+                padding-right: 0px;
+                border-top-width: 0px;
+                border-left-width: 0px;
+                border-right-width: 0px;
+                border-bottom-width: 0px;
+                top:30px;
+                position:relative;
+                ">
+              <div>
+               <button id="submit" class="btn btn-primary btn-lg" type="submit" name="submit" style="float:left"><b>DO YOU MEAN...<b></b></b></button>
+              </div>
+              
+           </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Output -->
+    <section class="content-section bg-light" id="services">
+        <div class="main main-raised text-center pagination-centered">
+        <div id="wait" style="display:none"> Please wait...
+            </div>
+        <div>
+            <div>
+
+            <div id="output" style="display:none">
+              <h3 style="margin-bottom:0.5rem">Please wait......</h3>
+                <div style="font-size:1.25rem"></div>
+            </div>
+              <!-- Tabs with icons on Card -->
+              <div id ="gist-area">
+              </div>
+              <!-- End Tabs with icons on Card -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section class="content-section bg-primary text-white" id="about_me">
+      <div class="container text-center">
+        <h2 class="mb-4">About Me</h2>
+        <p class="mb-4"> This is a project for InsightData program. For more information, please check the links below.</p>
+      </div>
+    </section>
+
+
+    <!-- Footer -->
+    <footer class="footer text-center">
+      <div class="container">
+        <ul class="list-inline mb-5">
+
+          <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white mr-3" href="https://www.linkedin.com/in/manxin/">
+              <i class="icon-social-linkedin"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white" href="https://github.com/manxin0821/InsightData">
+              <i class="icon-social-github"></i>
+            </a>
+          </li>
+        </ul>
+        <p class="text-muted small mb-0">Copyright &copy; Your Website 2018</p>
+      </div>
+    </footer>
+
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
+      <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="../static/vendor/jquery/jquery.min.js"></script>
+    <script src="../static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../static/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="../static/js/stylish-portfolio.min.js"></script>
+  </body>
+
+</html>
+<script>
+ document.getElementById('gist-area').style.visibility = "hidden"
+
+ const input = document.getElementById('input')
+  const output = document.getElementById('output')
+  const textArea = document.getElementById('textarea')
+  const button = document.getElementById('submit')
+ button.addEventListener('click', e => {
+   e.preventDefault();
+   //$("#wait").show();
+   $("#output").show();
+   const text = textarea.value
+   fetch('/predict', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ text }),
+   })
+     .then(response => response.json())
+     .then(json => {
+        document.getElementById('gist-area').innerHTML='';
+        document.getElementById('gist-area').style.visibility = "visible";
+        //$("#wait").hide();
+        $("#output").hide();
+
+       // var card = document.getElementById('gist-area');
+       // card.parentNode.removeChild(card.children)
+        for(let i=0; i < json.length; i++){
+            var cardBody = document.createElement("div");
+            var cardTab = document.createElement("div");
+            var cardPane = document.createElement("div");
+            var para = document.createElement("p");
+            para.setAttribute("id", "gist-card");
+            cardPane.setAttribute("class", "tab-content text-center");
+            cardTab.setAttribute("class", "tab-pane active");
+            cardTab.setAttribute("class", "card-body");
+            var node = document.createTextNode(json[i]);
+            para.appendChild(node)
+            cardPane.appendChild(para)
+            cardTab.appendChild(cardPane)
+            cardBody.appendChild(cardTab)
+            document.getElementById('gist-area').appendChild(cardBody)
+        }
+     })
+ })
+
+
+ </script>
