@@ -1,0 +1,9 @@
+2019-02-18 20:43:48,768:[INFO]:[similarity]:Start the similarity training
+2019-02-18 20:43:48,769:[DEBUG]:[similarity]:Load {self.filename} from {self.data_directory}
+2019-02-18 20:43:49,581:[DEBUG]:[similarity]:Encoding the vocabulary from the data
+2019-02-18 20:45:18,529:[DEBUG]:[similarity]:Save the pickle file
+2019-02-18 20:45:29,484:[DEBUG]:[similarity]:Load the pickle file
+2019-02-18 20:45:29,846:[DEBUG]:[similarity]:Building the neural network with epochs as 20 and batch size as 1024
+2019-02-18 20:45:29,848:[DEBUG]:[similarity]:Configure the shared bidirectional LSTM
+2019-02-18 20:45:33,309:[DEBUG]:[similarity]:Configure the shared bidirectional LSTM
+2019-02-18 21:03:41,938:[DEBUG]:[similarity]:Save the model in models

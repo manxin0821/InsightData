@@ -1,0 +1,141 @@
+2019-02-18 23:16:23,010:[INFO]:[predict]:Generating the validation results in output
+2019-02-18 23:17:12,519:[DEBUG]:[predict]:Check the sentiment for the sentence:  From the valet who is running his ass off to the food and everything in between, this place does it all right
+2019-02-18 23:17:12,728:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:17:12,730:[DEBUG]:[predict]:Check the sentiment for the sentence:  From the valet who is running his ass off to the food and everything in between, this place does it all right
+2019-02-18 23:17:12,748:[DEBUG]:[predict]:Find the similarity of the sentence  From the valet who is running his ass off to the food and everything in between, this place does it all right
+2019-02-18 23:17:13,728:[DEBUG]:[predict]:Check the sentiment for the sentence: fantastic wings that are crispy and delicious , wing night on tuesday and thursday 
+2019-02-18 23:17:13,744:[DEBUG]:[predict]:Check the sentiment for the sentence: it was truly outstanding 
+2019-02-18 23:17:13,756:[DEBUG]:[predict]:Check the sentiment for the sentence: modest environment with excellent food 
+2019-02-18 23:17:52,444:[DEBUG]:[predict]:Check the sentiment for the sentence:  It was a monumental fucking embarrassment
+2019-02-18 23:17:52,756:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:17:52,757:[DEBUG]:[predict]:Check the sentiment for the sentence:  It was a monumental fucking embarrassment
+2019-02-18 23:17:52,771:[DEBUG]:[predict]:Find the similarity of the sentence  It was a monumental fucking embarrassment
+2019-02-18 23:17:53,823:[DEBUG]:[predict]:Check the sentiment for the sentence: the service was ok , not the best not the worst 
+2019-02-18 23:17:53,838:[DEBUG]:[predict]:Check the sentiment for the sentence: it was ok but not something i would order again 
+2019-02-18 23:17:53,852:[DEBUG]:[predict]:Check the sentiment for the sentence: mens room did n't have any paper towels to dry hands with 
+2019-02-18 23:18:41,006:[DEBUG]:[predict]:Check the sentiment for the sentence:   The Manager guy, the guy who looks like a real pussy version of John Leguizamo
+2019-02-18 23:18:41,421:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:18:41,422:[DEBUG]:[predict]:Check the sentiment for the sentence:   The Manager guy, the guy who looks like a real pussy version of John Leguizamo
+2019-02-18 23:18:41,437:[DEBUG]:[predict]:Find the similarity of the sentence   The Manager guy, the guy who looks like a real pussy version of John Leguizamo
+2019-02-18 23:18:42,603:[DEBUG]:[predict]:Check the sentiment for the sentence: not the best dinner they have eaten 
+2019-02-18 23:18:42,618:[DEBUG]:[predict]:Check the sentiment for the sentence: it 's pretty much a crap shoot 
+2019-02-18 23:18:42,630:[DEBUG]:[predict]:Check the sentiment for the sentence: we finished our dumplings 
+2019-02-18 23:19:28,641:[DEBUG]:[predict]:Check the sentiment for the sentence: and good old rowdy shit
+2019-02-18 23:19:29,202:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:19:29,203:[DEBUG]:[predict]:Check the sentiment for the sentence: and good old rowdy shit
+2019-02-18 23:19:29,216:[DEBUG]:[predict]:Find the similarity of the sentence and good old rowdy shit
+2019-02-18 23:19:30,467:[DEBUG]:[predict]:Check the sentiment for the sentence: instead of caramelized onions , they added raw onions 
+2019-02-18 23:19:30,481:[DEBUG]:[predict]:Check the sentiment for the sentence: thats not really a big deal 
+2019-02-18 23:19:30,494:[DEBUG]:[predict]:Check the sentiment for the sentence: this place has gone significantly down hill 
+2019-02-18 23:20:15,522:[DEBUG]:[predict]:Check the sentiment for the sentence:  Those skinny Scottsdale bitches that hang out at Pink Taco, words of advice
+2019-02-18 23:20:16,196:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:20:16,197:[DEBUG]:[predict]:Check the sentiment for the sentence:  Those skinny Scottsdale bitches that hang out at Pink Taco, words of advice
+2019-02-18 23:20:16,213:[DEBUG]:[predict]:Find the similarity of the sentence  Those skinny Scottsdale bitches that hang out at Pink Taco, words of advice
+2019-02-18 23:20:17,662:[DEBUG]:[predict]:Check the sentiment for the sentence: however they ( waitresses ) were nice and apologetic 
+2019-02-18 23:20:17,677:[DEBUG]:[predict]:Check the sentiment for the sentence: it 's spacious and they have outdoor seating and open windows 
+2019-02-18 23:20:17,690:[DEBUG]:[predict]:Check the sentiment for the sentence: first bad experience at this place 
+2019-02-18 23:21:17,895:[DEBUG]:[predict]:Check the sentiment for the sentence:   Seems like any time I have a coupon, this guy will literally butt in the middle of the order, give me a ration of shit and do about anything possible not to use it
+2019-02-18 23:21:18,722:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:21:18,723:[DEBUG]:[predict]:Check the sentiment for the sentence:   Seems like any time I have a coupon, this guy will literally butt in the middle of the order, give me a ration of shit and do about anything possible not to use it
+2019-02-18 23:21:18,744:[DEBUG]:[predict]:Find the similarity of the sentence   Seems like any time I have a coupon, this guy will literally butt in the middle of the order, give me a ration of shit and do about anything possible not to use it
+2019-02-18 23:21:20,317:[DEBUG]:[predict]:Check the sentiment for the sentence: everyone else at the table hated their food 
+2019-02-18 23:21:20,332:[DEBUG]:[predict]:Check the sentiment for the sentence: do n't waste your time or money at this denny 's 
+2019-02-18 23:21:20,346:[DEBUG]:[predict]:Check the sentiment for the sentence: and not well maintained or managed at all 
+2019-02-18 23:22:07,728:[DEBUG]:[predict]:Check the sentiment for the sentence: You want a relatively close connection for your flight? Well tough shit
+2019-02-18 23:22:08,687:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:22:08,688:[DEBUG]:[predict]:Check the sentiment for the sentence: You want a relatively close connection for your flight? Well tough shit
+2019-02-18 23:22:08,704:[DEBUG]:[predict]:Find the similarity of the sentence You want a relatively close connection for your flight? Well tough shit
+2019-02-18 23:22:10,374:[DEBUG]:[predict]:Check the sentiment for the sentence: _num_ hour wait and then cold food served 
+2019-02-18 23:22:10,390:[DEBUG]:[predict]:Check the sentiment for the sentence: it was very greasy and had virtually no crab 
+2019-02-18 23:22:10,406:[DEBUG]:[predict]:Check the sentiment for the sentence: it was really embarrassing and every time he came by the conversation died 
+2019-02-18 23:23:22,783:[DEBUG]:[predict]:Check the sentiment for the sentence:   One of the drunken hicks actually got into a shouting match with one of the morbidly obese toothless tattooed bicker chicks where they argued who was the bitch and who was the pussy
+2019-02-18 23:23:23,896:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:23:23,897:[DEBUG]:[predict]:Check the sentiment for the sentence:   One of the drunken hicks actually got into a shouting match with one of the morbidly obese toothless tattooed bicker chicks where they argued who was the bitch and who was the pussy
+2019-02-18 23:23:23,918:[DEBUG]:[predict]:Find the similarity of the sentence   One of the drunken hicks actually got into a shouting match with one of the morbidly obese toothless tattooed bicker chicks where they argued who was the bitch and who was the pussy
+2019-02-18 23:23:25,777:[DEBUG]:[predict]:Check the sentiment for the sentence: go to any other pharmacy in town , avoid giant eagle 
+2019-02-18 23:23:25,793:[DEBUG]:[predict]:Check the sentiment for the sentence: if you are going to order something , i would go with the pizza 
+2019-02-18 23:23:25,809:[DEBUG]:[predict]:Check the sentiment for the sentence: it was ok but not something i would order again 
+2019-02-18 23:24:01,164:[DEBUG]:[predict]:Check the sentiment for the sentence: Why?Because the last time I went,some piece of shit broke into just about every car in the parking lot to steal whatever they could
+2019-02-18 23:24:02,406:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:24:02,408:[DEBUG]:[predict]:Check the sentiment for the sentence: Why?Because the last time I went,some piece of shit broke into just about every car in the parking lot to steal whatever they could
+2019-02-18 23:24:02,428:[DEBUG]:[predict]:Find the similarity of the sentence Why?Because the last time I went,some piece of shit broke into just about every car in the parking lot to steal whatever they could
+2019-02-18 23:24:04,433:[DEBUG]:[predict]:Check the sentiment for the sentence: the low point lately has been the food 
+2019-02-18 23:24:04,450:[DEBUG]:[predict]:Check the sentiment for the sentence: the crab cakes were definitely frozen , and not made from blue crab 
+2019-02-18 23:24:04,465:[DEBUG]:[predict]:Check the sentiment for the sentence: i will avoid this one at the waterfront for awhile 
+2019-02-18 23:24:34,847:[DEBUG]:[predict]:Check the sentiment for the sentence:  What a fucking joke
+2019-02-18 23:24:36,310:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:24:36,311:[DEBUG]:[predict]:Check the sentiment for the sentence:  What a fucking joke
+2019-02-18 23:24:36,325:[DEBUG]:[predict]:Find the similarity of the sentence  What a fucking joke
+2019-02-18 23:24:38,361:[DEBUG]:[predict]:Check the sentiment for the sentence: we got up and walked out and will never be back 
+2019-02-18 23:24:38,380:[DEBUG]:[predict]:Check the sentiment for the sentence: my expectations for mcdonalds are t rarely high 
+2019-02-18 23:24:38,393:[DEBUG]:[predict]:Check the sentiment for the sentence: i ate half the bowl and left the rest for the server 
+2019-02-18 23:25:06,579:[DEBUG]:[predict]:Check the sentiment for the sentence:   Who the fuck talks to a customer like that, even at a low rent fast food joint?  Fuck you
+2019-02-18 23:25:08,284:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:25:08,285:[DEBUG]:[predict]:Check the sentiment for the sentence:   Who the fuck talks to a customer like that, even at a low rent fast food joint?  Fuck you
+2019-02-18 23:25:08,304:[DEBUG]:[predict]:Find the similarity of the sentence   Who the fuck talks to a customer like that, even at a low rent fast food joint?  Fuck you
+2019-02-18 23:25:10,527:[DEBUG]:[predict]:Check the sentiment for the sentence: _num_ strikes 
+2019-02-18 23:25:10,546:[DEBUG]:[predict]:Check the sentiment for the sentence: used to go there for tires , brakes , etc 
+2019-02-18 23:25:10,565:[DEBUG]:[predict]:Check the sentiment for the sentence: it was ok  very mediocre 
+2019-02-18 23:26:16,105:[DEBUG]:[predict]:Check the sentiment for the sentence: ' Because even in 1998 I was a food bitch
+2019-02-18 23:26:17,793:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:26:17,794:[DEBUG]:[predict]:Check the sentiment for the sentence: ' Because even in 1998 I was a food bitch
+2019-02-18 23:26:17,808:[DEBUG]:[predict]:Find the similarity of the sentence ' Because even in 1998 I was a food bitch
+2019-02-18 23:26:20,150:[DEBUG]:[predict]:Check the sentiment for the sentence: thanks chef tony 
+2019-02-18 23:26:20,164:[DEBUG]:[predict]:Check the sentiment for the sentence: our service was good and they accommodated our _num_ year old nicely 
+2019-02-18 23:26:20,179:[DEBUG]:[predict]:Check the sentiment for the sentence: its a bit pricey for us but nice once in a while 
+2019-02-18 23:27:25,154:[DEBUG]:[predict]:Check the sentiment for the sentence:   No one deserves that shit
+2019-02-18 23:27:26,994:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:27:26,995:[DEBUG]:[predict]:Check the sentiment for the sentence:   No one deserves that shit
+2019-02-18 23:27:27,009:[DEBUG]:[predict]:Find the similarity of the sentence   No one deserves that shit
+2019-02-18 23:27:29,558:[DEBUG]:[predict]:Check the sentiment for the sentence: there were no complaints with the chicken , the only star of this evening 
+2019-02-18 23:27:29,575:[DEBUG]:[predict]:Check the sentiment for the sentence: strawberry pies being the exception to the rule 
+2019-02-18 23:27:29,589:[DEBUG]:[predict]:Check the sentiment for the sentence: awful place with rude people 
+2019-02-18 23:28:00,883:[DEBUG]:[predict]:Check the sentiment for the sentence:  Service half ass
+2019-02-18 23:28:02,938:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:28:02,940:[DEBUG]:[predict]:Check the sentiment for the sentence:  Service half ass
+2019-02-18 23:28:02,953:[DEBUG]:[predict]:Find the similarity of the sentence  Service half ass
+2019-02-18 23:28:05,590:[DEBUG]:[predict]:Check the sentiment for the sentence: instead , my total was about $ _num_ 
+2019-02-18 23:28:05,605:[DEBUG]:[predict]:Check the sentiment for the sentence: one of my party has still not received his chicken sandwich 
+2019-02-18 23:28:05,619:[DEBUG]:[predict]:Check the sentiment for the sentence: i quickly ate and left to make my movie 
+2019-02-18 23:28:22,454:[DEBUG]:[predict]:Check the sentiment for the sentence:  Donna is awesome in a take-no-shit-but-still-take-care-of-you kind of way
+2019-02-18 23:28:24,675:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:28:24,677:[DEBUG]:[predict]:Check the sentiment for the sentence:  Donna is awesome in a take-no-shit-but-still-take-care-of-you kind of way
+2019-02-18 23:28:24,698:[DEBUG]:[predict]:Find the similarity of the sentence  Donna is awesome in a take-no-shit-but-still-take-care-of-you kind of way
+2019-02-18 23:28:27,481:[DEBUG]:[predict]:Check the sentiment for the sentence: the manager even helps the elderly and speaks with customers like they are friends 
+2019-02-18 23:28:27,498:[DEBUG]:[predict]:Check the sentiment for the sentence: this little former gas station makes some incredibly delicious pierogies 
+2019-02-18 23:28:27,512:[DEBUG]:[predict]:Check the sentiment for the sentence: great selection of beers especially the seasonal ones 
+2019-02-18 23:28:44,687:[DEBUG]:[predict]:Check the sentiment for the sentence:  but it wasn't worth waiting 40 fucking minutes to get it
+2019-02-18 23:28:47,013:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:28:47,014:[DEBUG]:[predict]:Check the sentiment for the sentence:  but it wasn't worth waiting 40 fucking minutes to get it
+2019-02-18 23:28:47,030:[DEBUG]:[predict]:Find the similarity of the sentence  but it wasn't worth waiting 40 fucking minutes to get it
+2019-02-18 23:28:49,996:[DEBUG]:[predict]:Check the sentiment for the sentence: no marinara sauce 
+2019-02-18 23:28:50,009:[DEBUG]:[predict]:Check the sentiment for the sentence: i saw no reason to continue 
+2019-02-18 23:28:50,022:[DEBUG]:[predict]:Check the sentiment for the sentence: so much rudeness -- checking out and trying to find other items 
+2019-02-18 23:29:08,688:[DEBUG]:[predict]:Check the sentiment for the sentence:  Just because the chicken is good, does not mean you treat people like shit
+2019-02-18 23:29:11,182:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:29:11,183:[DEBUG]:[predict]:Check the sentiment for the sentence:  Just because the chicken is good, does not mean you treat people like shit
+2019-02-18 23:29:11,200:[DEBUG]:[predict]:Find the similarity of the sentence  Just because the chicken is good, does not mean you treat people like shit
+2019-02-18 23:29:14,276:[DEBUG]:[predict]:Check the sentiment for the sentence: i ordered chicken tortellini pasta and chicken noodle soup 
+2019-02-18 23:29:14,292:[DEBUG]:[predict]:Check the sentiment for the sentence: i gave up and refused the offer for another 
+2019-02-18 23:29:14,305:[DEBUG]:[predict]:Check the sentiment for the sentence: he then was really rude and never gave us napkins or forks 
+2019-02-18 23:29:33,251:[DEBUG]:[predict]:Check the sentiment for the sentence:  They take no shit
+2019-02-18 23:29:35,892:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:29:35,894:[DEBUG]:[predict]:Check the sentiment for the sentence:  They take no shit
+2019-02-18 23:29:35,914:[DEBUG]:[predict]:Find the similarity of the sentence  They take no shit
+2019-02-18 23:29:40,154:[DEBUG]:[predict]:Check the sentiment for the sentence: absolutely the worst care in all my experience with vets 
+2019-02-18 23:29:40,171:[DEBUG]:[predict]:Check the sentiment for the sentence: one of my party has still not received his chicken sandwich 
+2019-02-18 23:29:40,185:[DEBUG]:[predict]:Check the sentiment for the sentence: after spending over $ _num_ plus games , we will never go back 
+2019-02-18 23:29:59,546:[DEBUG]:[predict]:Check the sentiment for the sentence: First off I would like to punch the dip Shit on the food network who said this was the best chicken he ever ate
+2019-02-18 23:30:02,479:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:30:02,481:[DEBUG]:[predict]:Check the sentiment for the sentence: First off I would like to punch the dip Shit on the food network who said this was the best chicken he ever ate
+2019-02-18 23:30:02,502:[DEBUG]:[predict]:Find the similarity of the sentence First off I would like to punch the dip Shit on the food network who said this was the best chicken he ever ate
+2019-02-18 23:30:05,854:[DEBUG]:[predict]:Check the sentiment for the sentence: fantastic gem in pittsburgh 
+2019-02-18 23:30:05,867:[DEBUG]:[predict]:Check the sentiment for the sentence: always friendly always clean very consistent 
+2019-02-18 23:30:05,880:[DEBUG]:[predict]:Check the sentiment for the sentence: the food is always so delicious always leave feeling extremely satisfied 
+2019-02-18 23:30:32,582:[DEBUG]:[predict]:Check the sentiment for the sentence:   Damn it man
+2019-02-18 23:30:35,497:[DEBUG]:[predict]:List the detoxicity results
+2019-02-18 23:30:35,499:[DEBUG]:[predict]:Check the sentiment for the sentence:   Damn it man
+2019-02-18 23:30:35,512:[DEBUG]:[predict]:Find the similarity of the sentence   Damn it man
+2019-02-18 23:30:38,983:[DEBUG]:[predict]:Check the sentiment for the sentence: will definitely bring my bf here in the future 
+2019-02-18 23:30:38,999:[DEBUG]:[predict]:Check the sentiment for the sentence: this little former gas station makes some incredibly delicious pierogies 
+2019-02-18 23:30:39,013:[DEBUG]:[predict]:Check the sentiment for the sentence: however this place far exceeded my expectations 
