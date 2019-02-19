@@ -32,4 +32,5 @@ python scripts/run_proj.py 'test' --input_sentence 'The food here is d**n good'
 
 * Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. 2017. "Automated Hate Speech Detection and the Problem of Offensive Language." ICWSM.
 * https://github.com/Hironsan/HateSonar
-
+* Siamese Recurrent Architectures for Learning Sentence Similarity. 2016.
+* https://github.com/likejazz/Siamese-LSTM
