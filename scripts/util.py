@@ -80,11 +80,7 @@ def make_w2v_embeddings(word2vec, df, embedding_dim):
             df.at[index, question + '_n'] = q2n
 
     embeddings = 1 * np.random.randn(len(vocabs) + 1, embedding_dim)  
-    '''
-    词1 [a1, a2, a3, ..., a60]
-    词2 [b1, b2, b3, ..., b60]
-    词3 [c1, c2, c3, ..., c60]
-    '''
+
     embeddings[0] = 0  
     for index in vocabs:
         vocab_word = vocabs[index]
