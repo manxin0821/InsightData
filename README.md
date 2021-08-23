@@ -2,6 +2,10 @@
 
 This project can smartly replace the offensive sentences from the text to the appropriate language without changing the general meanings. 
 
+Presentation and demo can be found here:
+
+https://docs.google.com/presentation/d/1XPxMgU3YLhjZZenoqFzi_UOBcgPk-1H7fPEBaHco6e4/edit#slide=id.p1
+
 ### Machine Learning Frameworks
 
 The model is built using tensorflow 1.6.0 and Keras 2.1.5. 
